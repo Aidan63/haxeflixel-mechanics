@@ -1,7 +1,7 @@
 ---
 title: sprite button
 concept: UI
-order: 1
+order: 2
 tags: [UI, Button]
 complexity: 1
 sourcefiles: source/PlayState.hx
